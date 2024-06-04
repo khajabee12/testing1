@@ -7,7 +7,7 @@ public class Fileupload {
 	AUTOMATION TESTING 
 THIS IS GITHUB
 12345678910112
-	khajabee
+khajabee
 	public static void main(String args[]) {
 		//System.setProperty("webdriver.chrome.driver", "C:\\Users\\Dell\\Downloads\\chromedriver.chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
