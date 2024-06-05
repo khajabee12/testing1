@@ -8,6 +8,7 @@ public class Fileupload {
 THIS IS GITHUB
 12345678910112
 khajabee
+selenium tool free
 	public static void main(String args[]) {
 		//System.setProperty("webdriver.chrome.driver", "C:\\Users\\Dell\\Downloads\\chromedriver.chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
